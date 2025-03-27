@@ -1,0 +1,16 @@
+C:\Users\shaha\OneDrive\Desktop\ScholarshipApp\bin\Debug\net8.0-windows\ScholarshipApp.exe
+C:\Users\shaha\OneDrive\Desktop\ScholarshipApp\bin\Debug\net8.0-windows\ScholarshipApp.deps.json
+C:\Users\shaha\OneDrive\Desktop\ScholarshipApp\bin\Debug\net8.0-windows\ScholarshipApp.runtimeconfig.json
+C:\Users\shaha\OneDrive\Desktop\ScholarshipApp\bin\Debug\net8.0-windows\ScholarshipApp.dll
+C:\Users\shaha\OneDrive\Desktop\ScholarshipApp\bin\Debug\net8.0-windows\ScholarshipApp.pdb
+C:\Users\shaha\OneDrive\Desktop\ScholarshipApp\obj\Debug\net8.0-windows\ScholarshipApp.Form1.resources
+C:\Users\shaha\OneDrive\Desktop\ScholarshipApp\obj\Debug\net8.0-windows\ScholarshipApp.csproj.GenerateResource.cache
+C:\Users\shaha\OneDrive\Desktop\ScholarshipApp\obj\Debug\net8.0-windows\ScholarshipApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaha\OneDrive\Desktop\ScholarshipApp\obj\Debug\net8.0-windows\ScholarshipApp.AssemblyInfoInputs.cache
+C:\Users\shaha\OneDrive\Desktop\ScholarshipApp\obj\Debug\net8.0-windows\ScholarshipApp.AssemblyInfo.cs
+C:\Users\shaha\OneDrive\Desktop\ScholarshipApp\obj\Debug\net8.0-windows\ScholarshipApp.csproj.CoreCompileInputs.cache
+C:\Users\shaha\OneDrive\Desktop\ScholarshipApp\obj\Debug\net8.0-windows\ScholarshipApp.dll
+C:\Users\shaha\OneDrive\Desktop\ScholarshipApp\obj\Debug\net8.0-windows\refint\ScholarshipApp.dll
+C:\Users\shaha\OneDrive\Desktop\ScholarshipApp\obj\Debug\net8.0-windows\ScholarshipApp.pdb
+C:\Users\shaha\OneDrive\Desktop\ScholarshipApp\obj\Debug\net8.0-windows\ScholarshipApp.genruntimeconfig.cache
+C:\Users\shaha\OneDrive\Desktop\ScholarshipApp\obj\Debug\net8.0-windows\ref\ScholarshipApp.dll
